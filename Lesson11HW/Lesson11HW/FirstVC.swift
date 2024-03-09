@@ -12,8 +12,7 @@ class FirstVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        naviButton.setTitle("Push to ThirdVC", for: .normal)
-        naviButton.setTitleColor(.black, for: .normal)
+        naviButton.styleButton(nameButton: "Push to ThirdVC")
     }
     
     @IBAction private func naviButtonDidTap() {

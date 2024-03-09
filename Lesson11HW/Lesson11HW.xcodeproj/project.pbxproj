@@ -16,6 +16,7 @@
 		659EF5B02B9C6DA000B6AD63 /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659EF5AF2B9C6DA000B6AD63 /* SecondVC.swift */; };
 		659EF5B22B9C6F4B00B6AD63 /* ThirdVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659EF5B12B9C6F4B00B6AD63 /* ThirdVC.swift */; };
 		659EF5B42B9C702400B6AD63 /* FourthVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659EF5B32B9C702400B6AD63 /* FourthVC.swift */; };
+		659EF5B62B9CDEBF00B6AD63 /* UIButton+style.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659EF5B52B9CDEBF00B6AD63 /* UIButton+style.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		659EF5AF2B9C6DA000B6AD63 /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
 		659EF5B12B9C6F4B00B6AD63 /* ThirdVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdVC.swift; sourceTree = "<group>"; };
 		659EF5B32B9C702400B6AD63 /* FourthVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthVC.swift; sourceTree = "<group>"; };
+		659EF5B52B9CDEBF00B6AD63 /* UIButton+style.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIButton+style.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				659EF5B12B9C6F4B00B6AD63 /* ThirdVC.swift */,
 				659EF5B32B9C702400B6AD63 /* FourthVC.swift */,
 				659EF5AF2B9C6DA000B6AD63 /* SecondVC.swift */,
+				659EF5B52B9CDEBF00B6AD63 /* UIButton+style.swift */,
 				658AAA5F2B94FE33007788B8 /* Main.storyboard */,
 				658AAA622B94FE35007788B8 /* Assets.xcassets */,
 				658AAA642B94FE35007788B8 /* LaunchScreen.storyboard */,
@@ -147,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				659EF5B62B9CDEBF00B6AD63 /* UIButton+style.swift in Sources */,
 				659EF5B42B9C702400B6AD63 /* FourthVC.swift in Sources */,
 				658AAA5E2B94FE33007788B8 /* FirstVC.swift in Sources */,
 				658AAA5A2B94FE33007788B8 /* AppDelegate.swift in Sources */,
